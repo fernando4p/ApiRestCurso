@@ -1,0 +1,14 @@
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\bin\Debug\netcoreapp2.1\ApiRestCurso.deps.json
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\bin\Debug\netcoreapp2.1\ApiRestCurso.runtimeconfig.json
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\bin\Debug\netcoreapp2.1\ApiRestCurso.runtimeconfig.dev.json
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\bin\Debug\netcoreapp2.1\ApiRestCurso.dll
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\bin\Debug\netcoreapp2.1\ApiRestCurso.pdb
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.RazorAssemblyInfo.cache
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.RazorAssemblyInfo.cs
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.AssemblyInfoInputs.cache
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.AssemblyInfo.cs
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.RazorTargetAssemblyInfo.cache
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.dll
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.pdb
+C:\Users\Fernando Ramos\source\repos\ApiRestCurso\ApiRestCurso\obj\Debug\netcoreapp2.1\ApiRestCurso.csprojAssemblyReference.cache

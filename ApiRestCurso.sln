@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestCurso", "ApiRestCurso\ApiRestCurso.csproj", "{69CE1042-DE4B-45D5-ABC6-91B1E1E0FB24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69CE1042-DE4B-45D5-ABC6-91B1E1E0FB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CE1042-DE4B-45D5-ABC6-91B1E1E0FB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CE1042-DE4B-45D5-ABC6-91B1E1E0FB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CE1042-DE4B-45D5-ABC6-91B1E1E0FB24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFBC429B-6215-4209-B7B5-0933FDB8B9C0}
+	EndGlobalSection
+EndGlobal
